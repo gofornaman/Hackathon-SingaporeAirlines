@@ -6,9 +6,9 @@ Consumed
 Our algorithm will then count the number of times each category has appeared and correspondingly update it in the database.
 
 Sources - 
-Video demo - https://youtu.be/R-N4GLBP7N8
-Presentation - https://bit.ly/2zGEklL
-Dashboard - https://bit.ly/2P11CI2
+Video demo - https://youtu.be/R-N4GLBP7N8 <br>
+Presentation - https://bit.ly/2zGEklL <br>
+Dashboard - https://bit.ly/2P11CI2 <br>
 
 ------------------------------------------------------------------------------------------------------------------------------
 
