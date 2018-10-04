@@ -1,3 +1,4 @@
+
 “SnakeEye”  is an AI-based system integration platform that uses Object detection & Deep learning techniques to detect & classify F&B into three types
 Untouched
 Leftovers
@@ -8,7 +9,7 @@ Our algorithm will then count the number of times each category has appeared and
 Sources - 
 Video demo - https://youtu.be/R-N4GLBP7N8 <br>
 Presentation - https://bit.ly/2zGEklL <br>
-Dashboard - https://bit.ly/2P11CI2 <br>
+Dashboard -https://ayushverma8.github.io/Blitzkrieg-AppChallenge-2018/ <br>
 
 ------------------------------------------------------------------------------------------------------------------------------
 
